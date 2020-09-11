@@ -3,4 +3,4 @@
 
 # MAC 的網路傳輸協定
 
-CSMA, Carrier Sense Media Access （影格）載波偵測媒體存取。
+CSMA, Carrier Sense Multiple Access / CD 即（影格）載波偵測多重（媒體）存取/碰撞偵測。
