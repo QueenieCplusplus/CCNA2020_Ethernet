@@ -5,3 +5,5 @@
 # MAC 的數據傳輸協定，一種匯流排傳輸技術
 
 CSMA, Carrier Sense Multiple Access / CD 即（影格）載波偵測多重（媒體）存取/碰撞偵測。
+
+此技術提供了讓多台主機共享一條通道！
